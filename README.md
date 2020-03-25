@@ -15,4 +15,4 @@ Faculty Advisor: Dr. Walid Morsi Ibrahim
 Capstone Coordinator (Winter 2020): Dr. Q. Mahmoud
 
 To run Simulation:
-Download 
+Download CurrentSystem2019a.slx & 
